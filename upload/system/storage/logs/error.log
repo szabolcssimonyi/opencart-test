@@ -1,0 +1,30 @@
+2022-02-20 11:50:27 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in E:\projects\opencart\opencart\upload\system\library\db\mysqli.php on line 53
+2022-02-20 11:50:27 - PHP Unknown:  Automatic conversion of false to array is deprecated in E:\projects\opencart\opencart\upload\catalog\controller\startup\startup.php on line 103
+2022-02-20 11:50:28 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:50:29 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:50:29 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:50:29 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:50:29 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in E:\projects\opencart\opencart\upload\system\library\db\mysqli.php on line 53
+2022-02-20 11:50:29 - PHP Unknown:  Automatic conversion of false to array is deprecated in E:\projects\opencart\opencart\upload\catalog\controller\startup\startup.php on line 103
+2022-02-20 11:50:29 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:50:29 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:50:29 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:50:29 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:51:41 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in E:\projects\opencart\opencart\upload\system\library\db\mysqli.php on line 53
+2022-02-20 11:51:41 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:51:41 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:51:41 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 11:51:41 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 12:01:21 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in E:\projects\opencart\opencart\upload\system\library\db\mysqli.php on line 53
+2022-02-20 12:01:21 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 12:01:22 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 12:01:22 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 12:01:23 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in E:\projects\opencart\opencart\upload\system\library\db\mysqli.php on line 53
+2022-02-20 12:09:40 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in E:\projects\opencart\opencart\upload\system\library\db\mysqli.php on line 53
+2022-02-20 12:09:41 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 12:09:41 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 12:09:41 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 12:09:41 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\catalog\model\catalog\product.php on line 45
+2022-02-20 12:33:24 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in E:\projects\opencart\opencart\upload\system\library\db\mysqli.php on line 53
+2022-02-20 12:33:25 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in E:\projects\opencart\opencart\upload\system\library\db\mysqli.php on line 53
+2022-02-20 12:34:22 - PHP Unknown:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in E:\projects\opencart\opencart\upload\admin\controller\extension\dashboard\sale.php on line 116
